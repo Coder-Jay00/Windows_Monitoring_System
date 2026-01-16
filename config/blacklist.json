@@ -1,0 +1,25 @@
+{
+    "_comment": "YOUR TASK: Research and add known malicious process names",
+    "_instructions": [
+        "Add known malware process names here",
+        "Research common attack tools",
+        "Be careful: some tools are dual-use (legitimate + malicious)",
+        "Consider context when flagging these"
+    ],
+    "blacklist": [
+        "mimikatz.exe",
+        "mimikatz64.exe",
+        "pwdump.exe",
+        "pwdump7.exe",
+        "gsecdump.exe",
+        "wce.exe",
+        "procdump.exe",
+        "procdump64.exe"
+    ],
+    "suspicious_patterns": [
+        "cryptominer",
+        "miner",
+        "xmrig",
+        "coinhive"
+    ]
+}
