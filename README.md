@@ -95,11 +95,4 @@ The tool detects patterns like:
 - [ ] GUI interface
 - [ ] Machine learning-based detection
 
-## 📝 License
-
-MIT License - feel free to use this for learning!
-
----
-
-**Created by Jay Thakkar**  
-*3rd Year B.E. Computer Science*
+**Created by Jay Thakkar** 
